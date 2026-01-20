@@ -69,11 +69,4 @@ Temperatur: -2.5°C
 Wind: 35 km/h
 Bedingung: Leichter Schnee
 
-⚠️ WARNUNG: Temperatur unter 0°C!
-```
-
-## Lernziele-Abdeckung
-✅ Eigene Beschreibung (dieses Dokument)
-✅ Delegation (WarningHandler Interface)
-✅ Input-Validierung mit Custom Exceptions
-✅ Saubere Trennung (UI → Service → API)
+WARNUNG: Temperatur unter 0°C!
